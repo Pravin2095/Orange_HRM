@@ -1,0 +1,1 @@
+pytest -v G:\Python\OrangeHRM\TestCases\AddEmployee_ddt.py --html=Report/Add_Employee.html --browser Edge -p no:Warnings
