@@ -7,7 +7,7 @@ class LogGenerator:
     def logger():
         Name = inspect.stack()[1][3]  # It is for class name.
         Logger = logging.getLogger(Name)
-        Logfile = logging.FileHandler("G:\Python\OrangeHRM\Logs\\OrangeHRM_Automation.log")
+        Logfile = logging.FileHandler("H:\\Python\\OrangeHRM\Logs\\OrangeHRM_Automation.log")
         Format = logging.Formatter(
             "%(asctime)s : %(levelname)s : %(filename)s: %(name)s : %(funcName)s : %(lineno)d : %(message)s:")
         Logfile.setFormatter(Format)

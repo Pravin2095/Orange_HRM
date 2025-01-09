@@ -2,7 +2,7 @@ import configparser
 
 Configuration = configparser.RawConfigParser()
 
-Configuration.read("G:\\Python\\OrangeHRM\\Configuration\\config.ini")
+Configuration.read("H:\\Python\\OrangeHRM\\Configuration\\config.ini")
 
 
 class ReadConfig:

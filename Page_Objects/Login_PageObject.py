@@ -14,7 +14,7 @@ class loginpage:                         # It is a class,under it has methods an
     Click_LogOut_Button_XPATH = (By.XPATH,"//a[normalize-space()='Logout']")
 
 
-    def __init__(self,driver):    # It is a constructor to redirect method and function in testcases using veriable.
+    def __init__(self,driver):    # It is a constructor to redirect method and function in testcases using variable.
         self.driver = driver
 
     def Enter_Username(self,Username):             # These are method,under it has used functions objects.

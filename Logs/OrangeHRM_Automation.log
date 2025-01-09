@@ -244,3 +244,218 @@
 2024-10-26 15:34:00,009 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 78 : Click on LogOut Button:
 2024-10-26 15:34:00,009 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 79 : test_AddEmployee_ddt testcase is passed:
 2024-10-26 15:34:00,460 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 85 : test_AddEmployee_ddt testcase is completed:
+2024-12-25 15:16:07,845 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-12-25 15:16:07,874 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-12-25 15:16:14,708 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/loginhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:17:34,296 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-12-25 15:17:34,297 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-12-25 15:17:42,111 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/loginhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:21:29,444 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-12-25 15:21:29,470 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-12-25 15:21:37,779 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/loginhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:22:38,388 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-12-25 15:22:38,390 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-12-25 15:22:47,900 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:23:13,106 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-12-25 15:23:13,108 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-12-25 15:23:26,159 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:23:26,382 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 39 : Enter Username--Admin:
+2024-12-25 15:23:26,549 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 41 : Enter Password--admin123:
+2024-12-25 15:23:28,416 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 43 : Click on Login Button:
+2024-12-25 15:23:30,615 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on Menu Button:
+2024-12-25 15:23:32,576 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : Click on LogOut Button:
+2024-12-25 15:23:32,577 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt testcase is passed:
+2024-12-25 15:23:33,350 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 55 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-12-25 15:23:34,138 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 39 : Enter Username--Admin1:
+2024-12-25 15:23:34,547 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 41 : Enter Password--admin123:
+2024-12-25 15:23:35,943 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 43 : Click on Login Button:
+2024-12-25 15:23:46,019 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-12-25 15:23:46,268 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is failed:
+2024-12-25 15:23:46,507 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 39 : Enter Username--Admin:
+2024-12-25 15:23:46,691 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 41 : Enter Password--admin1234:
+2024-12-25 15:23:46,910 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 43 : Click on Login Button:
+2024-12-25 15:23:58,561 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-12-25 15:23:58,766 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is failed:
+2024-12-25 15:23:58,903 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 39 : Enter Username--Admin1:
+2024-12-25 15:23:59,045 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 41 : Enter Password--admin1234:
+2024-12-25 15:24:00,570 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 43 : Click on Login Button:
+2024-12-25 15:24:10,673 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-12-25 15:24:10,883 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is failed:
+2024-12-25 15:24:11,232 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 70 : test_Login_ddt testcase is completed:
+2024-12-25 15:28:47,662 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-12-25 15:28:47,676 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-12-25 15:28:52,273 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:28:57,456 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-12-25 15:28:57,699 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-12-25 15:28:59,088 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-12-25 15:29:00,836 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-12-25 15:29:03,103 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 37 : Click on Add_Employee Button:
+2024-12-25 15:29:04,039 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAman:
+2024-12-25 15:29:04,385 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameSanjiv:
+2024-12-25 15:29:04,626 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameTadam:
+2024-12-25 15:29:04,818 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:29:05,077 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:29:10,346 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:29:11,019 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:29:11,656 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameNilesh:
+2024-12-25 15:29:11,852 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameChandrakant:
+2024-12-25 15:29:11,998 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NamePatil:
+2024-12-25 15:29:12,111 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:29:12,216 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:29:17,539 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:29:18,567 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:29:20,134 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameSachin:
+2024-12-25 15:29:20,433 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameRamesh:
+2024-12-25 15:29:20,673 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameJadhav:
+2024-12-25 15:29:20,836 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:29:20,955 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:29:26,615 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:29:27,360 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:29:28,461 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAakash:
+2024-12-25 15:29:28,609 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameSanjiv:
+2024-12-25 15:29:28,767 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameTadam:
+2024-12-25 15:29:28,888 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:29:29,126 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:29:34,666 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:29:35,423 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:29:36,244 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAvinash:
+2024-12-25 15:29:36,417 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NamePrakash:
+2024-12-25 15:29:36,578 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameWankhade:
+2024-12-25 15:29:36,695 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:29:36,813 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:29:41,952 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:29:42,789 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:29:43,399 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 76 : Click on Menu Button:
+2024-12-25 15:29:44,355 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 78 : Click on LogOut Button:
+2024-12-25 15:29:44,361 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 79 : test_AddEmployee_ddt testcase is passed:
+2024-12-25 15:29:44,782 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 85 : test_AddEmployee_ddt testcase is completed:
+2024-12-25 15:35:27,897 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-12-25 15:35:27,933 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-12-25 15:35:31,865 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:35:36,991 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-12-25 15:35:37,173 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-12-25 15:35:38,590 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-12-25 15:35:40,901 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-12-25 15:35:42,890 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 37 : Click on Add_Employee Button:
+2024-12-25 15:35:43,813 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAman:
+2024-12-25 15:35:44,218 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameSanjiv:
+2024-12-25 15:35:44,492 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameTadam:
+2024-12-25 15:35:44,687 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:35:44,907 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:35:50,151 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:35:50,895 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:35:51,522 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameNilesh:
+2024-12-25 15:35:51,716 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameChandrakant:
+2024-12-25 15:35:51,869 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NamePatil:
+2024-12-25 15:35:51,969 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:35:52,077 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:35:57,260 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:35:58,184 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:35:59,187 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameSachin:
+2024-12-25 15:35:59,556 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameRamesh:
+2024-12-25 15:35:59,872 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameJadhav:
+2024-12-25 15:36:00,072 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:36:00,232 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:36:05,390 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:36:06,172 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:36:06,915 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAakash:
+2024-12-25 15:36:07,150 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NameSanjiv:
+2024-12-25 15:36:07,422 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameTadam:
+2024-12-25 15:36:07,575 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:36:07,721 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:36:13,906 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:36:15,306 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:36:16,200 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 50 : Enter First NameAvinash:
+2024-12-25 15:36:16,481 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter Middle NamePrakash:
+2024-12-25 15:36:16,644 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Last NameWankhade:
+2024-12-25 15:36:16,761 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 57 : Enter Employee ID:
+2024-12-25 15:36:16,882 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Click on Save Button:
+2024-12-25 15:36:22,635 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 63 : Employee added successfully:
+2024-12-25 15:36:23,259 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 66 : Click on Add_Employee Button:
+2024-12-25 15:36:23,871 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 76 : Click on Menu Button:
+2024-12-25 15:36:24,879 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 78 : Click on LogOut Button:
+2024-12-25 15:36:24,879 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 79 : test_AddEmployee_ddt testcase is passed:
+2024-12-25 15:36:25,230 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 85 : test_AddEmployee_ddt testcase is completed:
+2024-12-25 15:38:34,894 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 22 : test_url testcase is Started:
+2024-12-25 15:38:34,913 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 23 : Opening Browser:
+2024-12-25 15:38:38,690 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 26 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:38:38,891 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 30 : test_url is pass:
+2024-12-25 15:38:38,902 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 31 : Page title isOrangeHRM:
+2024-12-25 15:38:39,251 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_url : 38 : test_url testcase is Completed:
+2024-12-25 15:38:42,848 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 59 : test_login testcase is Started:
+2024-12-25 15:38:42,849 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 60 : Opening Browser:
+2024-12-25 15:38:43,973 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 63 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:38:50,248 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 68 : Entered UsernameAdmin:
+2024-12-25 15:38:50,449 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 70 : Entered Passwordadmin123:
+2024-12-25 15:38:52,487 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 72 : Click on Login Button:
+2024-12-25 15:38:54,207 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 76 : Click on Menu Button:
+2024-12-25 15:38:55,418 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 78 : Click on LogOut Button:
+2024-12-25 15:38:55,418 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 79 : test_login id passed:
+2024-12-25 15:38:55,972 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login : 86 : test_login testcase is completed:
+2024-12-25 15:39:00,723 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 90 : test_login testcase is Started:
+2024-12-25 15:39:00,724 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 91 : Opening Browser:
+2024-12-25 15:39:05,203 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 93 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:39:06,145 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 98 : Entered Username: Admin:
+2024-12-25 15:39:06,377 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 100 : Entered Password: admin123:
+2024-12-25 15:39:07,903 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 102 : Click on Login Button:
+2024-12-25 15:39:09,908 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 108 : Click on Menu Button:
+2024-12-25 15:39:11,195 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 110 : Click on LogOut Button:
+2024-12-25 15:39:11,196 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 111 : test_login login credential passed:
+2024-12-25 15:39:15,158 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 122 : test_login testcase is completed:
+2024-12-25 15:39:17,585 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 90 : test_login testcase is Started:
+2024-12-25 15:39:17,585 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 91 : Opening Browser:
+2024-12-25 15:39:18,534 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 93 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:39:27,092 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 98 : Entered Username: Admin1:
+2024-12-25 15:39:27,298 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 100 : Entered Password: admin1234:
+2024-12-25 15:39:28,517 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 102 : Click on Login Button:
+2024-12-25 15:39:39,567 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 120 : test_login login credentials is failed:
+2024-12-25 15:39:42,241 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 122 : test_login testcase is completed:
+2024-12-25 15:39:44,547 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 90 : test_login testcase is Started:
+2024-12-25 15:39:44,547 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 91 : Opening Browser:
+2024-12-25 15:39:48,441 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 93 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:39:50,691 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 98 : Entered Username: Admin:
+2024-12-25 15:39:50,919 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 100 : Entered Password: admin1234:
+2024-12-25 15:39:52,332 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 102 : Click on Login Button:
+2024-12-25 15:40:02,619 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 120 : test_login login credentials is failed:
+2024-12-25 15:40:05,119 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 122 : test_login testcase is completed:
+2024-12-25 15:40:07,328 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 90 : test_login testcase is Started:
+2024-12-25 15:40:07,328 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 91 : Opening Browser:
+2024-12-25 15:40:11,136 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 93 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:40:11,843 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 98 : Entered Username: Admin1:
+2024-12-25 15:40:12,036 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 100 : Entered Password: admin123:
+2024-12-25 15:40:13,107 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 102 : Click on Login Button:
+2024-12-25 15:40:23,383 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 120 : test_login login credentials is failed:
+2024-12-25 15:40:25,839 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_params : 122 : test_login testcase is completed:
+2024-12-25 15:40:28,939 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 126 : test_login testcase is started:
+2024-12-25 15:40:28,940 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 127 : Opening Browser:
+2024-12-25 15:40:53,999 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 130 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:40:58,779 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 136 : Enter UsernameAdmin:
+2024-12-25 15:40:58,987 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 138 : Enter Passwordadmin123:
+2024-12-25 15:41:00,711 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 140 : Click on Login Button:
+2024-12-25 15:41:02,909 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 142 : Click on PIM Button:
+2024-12-25 15:41:04,694 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 144 : Click on Add_Employee Button:
+2024-12-25 15:41:05,775 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 146 : Enter First Name:
+2024-12-25 15:41:06,079 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 148 : Enter Middle Name:
+2024-12-25 15:41:06,277 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 150 : Enter Last Name:
+2024-12-25 15:41:06,439 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 152 : Enter Employee ID:
+2024-12-25 15:41:06,646 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 154 : Click on Save Button:
+2024-12-25 15:41:11,895 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 158 : Click on Menu Button:
+2024-12-25 15:41:13,709 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 160 : Click on LogOut Button:
+2024-12-25 15:41:13,709 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 161 : test_login testcase is passed:
+2024-12-25 15:41:15,731 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_AddEmployee : 169 : test_login testcase is completed:
+2024-12-25 15:41:18,534 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 174 : test_searchEmployee testcase is started:
+2024-12-25 15:41:18,534 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 175 : Opening Browser:
+2024-12-25 15:41:19,521 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 178 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-12-25 15:41:33,843 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 184 : Enter Username: Admin:
+2024-12-25 15:41:34,104 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 186 : Enter Password: admin123:
+2024-12-25 15:41:34,275 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 188 : Click on Login Button:
+2024-12-25 15:41:37,425 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 190 : Click on PIM Button:
+2024-12-25 15:41:39,386 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 195 : Enter Search Employee Button:
+2024-12-25 15:41:45,248 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 198 : Enter Employee Name and Fill the Name:
+2024-12-25 15:41:45,419 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 200 : Click on Search Button:
+2024-12-25 15:41:51,112 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 203 : Click on Employee List Bar:
+2024-12-25 15:41:51,694 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 205 : Employee status has found:
+2024-12-25 15:41:52,328 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 208 : Click on Menu Button:
+2024-12-25 15:41:53,289 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 210 : Click on Log Out Button:
+2024-12-25 15:41:53,289 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 211 : test_searchEmployee testcase is passed:
+2024-12-25 15:41:53,673 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_searchEmployee : 223 : test_searchEmployee testcase is completed:
